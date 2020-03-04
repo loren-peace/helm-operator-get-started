@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: lpgranify/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-ouciowka
     replicaCount: 1
     hpa:
       enabled: false
